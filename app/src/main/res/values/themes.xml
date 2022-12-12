@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     resource sederhana yang direferensikan menggunakan nilai yang diberikan dalam atribut name
+-->
+<resources>
+
+    <style name="Theme.Affirmations" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/purple_700</item>
+    </style>
+</resources>
